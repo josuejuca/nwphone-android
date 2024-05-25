@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036537917783",
+    "project_id": "juca-nwphone",
+    "storage_bucket": "juca-nwphone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036537917783:android:fa19cd54ea67910ea60e12",
+        "android_client_info": {
+          "package_name": "br.com.jucasoft.linphone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqRjasbVh0UP04UuyR8pa3xw4FWAi7Amc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036537917783:android:e62aaa2bb4c46356a60e12",
+        "android_client_info": {
+          "package_name": "br.com.jucasoft.linphone.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqRjasbVh0UP04UuyR8pa3xw4FWAi7Amc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
