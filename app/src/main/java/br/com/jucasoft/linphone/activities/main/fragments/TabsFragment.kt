@@ -123,6 +123,7 @@ class TabsFragment : GenericFragment<TabsFragmentBinding>(), NavController.OnDes
                 )
                 R.id.masterContactsFragment -> binding.motionLayout.transitionToState(R.id.contacts)
                 R.id.dialerFragment -> binding.motionLayout.transitionToState(R.id.dialer)
+
                 R.id.masterChatRoomsFragment -> binding.motionLayout.transitionToState(
                     R.id.chat_rooms
                 )
@@ -137,6 +138,7 @@ class TabsFragment : GenericFragment<TabsFragmentBinding>(), NavController.OnDes
                     R.id.contacts,
                     R.id.contacts
                 )
+
                 R.id.dialerFragment -> binding.motionLayout.setTransition(R.id.dialer, R.id.dialer)
                 R.id.masterChatRoomsFragment -> binding.motionLayout.setTransition(
                     R.id.chat_rooms,
